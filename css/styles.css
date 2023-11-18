@@ -133,7 +133,9 @@ body {
 
 #upload-image {
   width: 55%;
+  height: 55%;
   max-width: 500px;
+  max-height: 700px;
 }
 
 hr {
